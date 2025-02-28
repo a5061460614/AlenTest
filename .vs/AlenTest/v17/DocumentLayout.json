@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Alen\\AlenTest\\AlenTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3754F959-64AB-4981-A062-293C0ABF0E97}|CallAPI.Tests\\CallAPI.Tests.csproj|d:\\alen\\alentest\\alentest\\callapi.tests\\controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3754F959-64AB-4981-A062-293C0ABF0E97}|CallAPI.Tests\\CallAPI.Tests.csproj|solutionrelative:callapi.tests\\controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D7578C-4304-45E0-BF6C-4F8200751E49}|AlenTest\\AlenTest.csproj|d:\\alen\\alentest\\alentest\\alentest\\controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D7578C-4304-45E0-BF6C-4F8200751E49}|AlenTest\\AlenTest.csproj|solutionrelative:alentest\\controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D7578C-4304-45E0-BF6C-4F8200751E49}|AlenTest\\AlenTest.csproj|d:\\alen\\alentest\\alentest\\alentest\\coininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D7578C-4304-45E0-BF6C-4F8200751E49}|AlenTest\\AlenTest.csproj|solutionrelative:alentest\\coininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3754F959-64AB-4981-A062-293C0ABF0E97}|CallAPI.Tests\\CallAPI.Tests.csproj|d:\\alen\\alentest\\alentest\\callapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3754F959-64AB-4981-A062-293C0ABF0E97}|CallAPI.Tests\\CallAPI.Tests.csproj|solutionrelative:callapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D7578C-4304-45E0-BF6C-4F8200751E49}|AlenTest\\AlenTest.csproj|d:\\alen\\alentest\\alentest\\alentest\\file\\mockingdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36D7578C-4304-45E0-BF6C-4F8200751E49}|AlenTest\\AlenTest.csproj|solutionrelative:alentest\\file\\mockingdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockingData.json",
+              "DocumentMoniker": "D:\\Alen\\AlenTest\\AlenTest\\AlenTest\\File\\MockingData.json",
+              "RelativeDocumentMoniker": "AlenTest\\File\\MockingData.json",
+              "ToolTip": "D:\\Alen\\AlenTest\\AlenTest\\AlenTest\\File\\MockingData.json",
+              "RelativeToolTip": "AlenTest\\File\\MockingData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T16:01:15.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coindeskController.cs",
+              "DocumentMoniker": "D:\\Alen\\AlenTest\\AlenTest\\AlenTest\\Controllers\\coindeskController.cs",
+              "RelativeDocumentMoniker": "AlenTest\\Controllers\\coindeskController.cs",
+              "ToolTip": "D:\\Alen\\AlenTest\\AlenTest\\AlenTest\\Controllers\\coindeskController.cs",
+              "RelativeToolTip": "AlenTest\\Controllers\\coindeskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:50:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coinInfo.cs",
+              "DocumentMoniker": "D:\\Alen\\AlenTest\\AlenTest\\AlenTest\\coinInfo.cs",
+              "RelativeDocumentMoniker": "AlenTest\\coinInfo.cs",
+              "ToolTip": "D:\\Alen\\AlenTest\\AlenTest\\AlenTest\\coinInfo.cs",
+              "RelativeToolTip": "AlenTest\\coinInfo.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwOQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:01:55.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Alen\\AlenTest\\AlenTest\\CallAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CallAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Alen\\AlenTest\\AlenTest\\CallAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CallAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAywBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:52:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coindeskController.cs",
+              "DocumentMoniker": "D:\\Alen\\AlenTest\\AlenTest\\CallAPI.Tests\\Controllers\\coindeskController.cs",
+              "RelativeDocumentMoniker": "CallAPI.Tests\\Controllers\\coindeskController.cs",
+              "ToolTip": "D:\\Alen\\AlenTest\\AlenTest\\CallAPI.Tests\\Controllers\\coindeskController.cs",
+              "RelativeToolTip": "CallAPI.Tests\\Controllers\\coindeskController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwHsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:30:43.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@AlenTest_HostAddress = http://localhost:5124
+
+GET {{AlenTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
