@@ -8,7 +8,7 @@
   5. 將專案上傳至 GitHub 並設為公開分享，回傳repo鏈結。 ✔️
   6. 嘗試錄製demo，上傳至Youtube影片(不要用Shorts)，設為非公開分享回傳  (連結為：https://youtu.be/sWATw403FKA) ✔️
 
-實作加分題 (請於 README 說明包含以下哪些項目)
+實作加分題
   1. 印出所有 API 被呼叫以及呼叫外部 API 的 request and response body log ✔️
   2. 加解密技術應用 (AES/RSA…etc.) ✔️
  
